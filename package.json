@@ -58,6 +58,6 @@
     "typescript": "^4.8.4"
   },
   "dependencies": {
-    "@shallot-ui/web": ">=0"
+    "@shallot-ui/web": "^0.15.0"
   }
 }
