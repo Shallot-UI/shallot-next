@@ -1358,10 +1358,10 @@
   resolved "https://registry.yarnpkg.com/@shallot-ui/theme/-/theme-0.1.9.tgz#b01efcdd27b397db79d6f1580a2cfdd4261b9da4"
   integrity sha512-AFtj8tZw46o+Jp1Q669+tFrVk1A5V2zhOfTvnq2aNg1O1PJDM23P6Q1v/5JHmPcle0OpXpCQhng+ggmqRzfK9A==
 
-"@shallot-ui/web@^0.15.1":
-  version "0.15.1"
-  resolved "https://registry.yarnpkg.com/@shallot-ui/web/-/web-0.15.1.tgz#914e599c5fab207c93dbe24514593fa6343a5572"
-  integrity sha512-nodI/dLOnuAYMKEFPbXSZ76nZz8v/Tw1i1L58OrLoZ5gPO4zfGvL1vLuKQX1AwJTPMBAPmpOnLjGCn1b3RZGOQ==
+"@shallot-ui/web@^0.16.1":
+  version "0.16.1"
+  resolved "https://registry.yarnpkg.com/@shallot-ui/web/-/web-0.16.1.tgz#9e1732c4168abd3e8b19d3ecc419f2fb4f0858a0"
+  integrity sha512-n9VSjuUfRaYIMqVnkYkaemkkwEBRKfIqQ8OYSBiU/5Vq9DtVCCY46SPuBAvepzFprd18KLT8wTO7xqu87srX+A==
   dependencies:
     "@shallot-ui/theme" "^0.1.9"
 
