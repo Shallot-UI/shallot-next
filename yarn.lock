@@ -1353,17 +1353,15 @@
     estree-walker "^1.0.1"
     picomatch "^2.2.2"
 
-"@shallot-ui/theme@^0.1.9":
-  version "0.1.9"
-  resolved "https://registry.yarnpkg.com/@shallot-ui/theme/-/theme-0.1.9.tgz#b01efcdd27b397db79d6f1580a2cfdd4261b9da4"
-  integrity sha512-AFtj8tZw46o+Jp1Q669+tFrVk1A5V2zhOfTvnq2aNg1O1PJDM23P6Q1v/5JHmPcle0OpXpCQhng+ggmqRzfK9A==
+"@shallot-ui/theme@^0.1.11":
+  version "0.1.11"
+  resolved "https://registry.yarnpkg.com/@shallot-ui/theme/-/theme-0.1.11.tgz#4ba2f3c97b7af12e2abba40a9fb53cbf1a87cef9"
+  integrity sha512-bN1eXJ/uAbfkhr4dkVej/VGhBOaVDd+ETQRnZlqBCqAg7N7W04aXZv63AKlqTZlY0N9IiWzL6FdmMZ820XtqsA==
 
-"@shallot-ui/web@^0.16.2":
-  version "0.16.2"
-  resolved "https://registry.yarnpkg.com/@shallot-ui/web/-/web-0.16.2.tgz#cafc440fcff3b58968f554601b87972807ca98bb"
-  integrity sha512-fY5I0n9ocigYbYtbuEp+da09dLgNTurJAKbihhiJXsHh6mzlmz6U5d8Z9nkr9h/v1IlqHfltiOYQQfseVfVOiA==
-  dependencies:
-    "@shallot-ui/theme" "^0.1.9"
+"@shallot-ui/web@^0.17.3":
+  version "0.17.3"
+  resolved "https://registry.yarnpkg.com/@shallot-ui/web/-/web-0.17.3.tgz#b84807631c4cd1b44e3a508b01a888343781e225"
+  integrity sha512-s3ZgONcz8OBwlljZ+GNFqO5ihxqrV5Y5fmKKQ32pw+tQOynr+OYJFttqKeEUDlXQNZ7OLEMAzuYtE4PxQqCqhA==
 
 "@sinonjs/commons@^1.7.0":
   version "1.8.3"
